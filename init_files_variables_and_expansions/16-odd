@@ -1,2 +1,2 @@
 #!/bin/bash
-sed g\;n
+sed -n 1~2p 
